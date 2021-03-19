@@ -47,4 +47,5 @@ namespace AppModelv2_WebApp_OpenIDConnect_DotNet.Controllers
             //https://github.com/microsoftgraph/msgraph-sdk-dotnet-auth
         }
     }
+
 }
